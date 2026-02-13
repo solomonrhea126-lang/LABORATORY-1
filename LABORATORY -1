@@ -5,10 +5,12 @@ last_name = "Solomon"
 age = 20 # Numeric literal (integer)
 address = "Naba Culasi Antique"
 sex = "Female"
-favorite_color = "Black"
-course = "BSCS"
 year_level = "2nd year"
 hobbies = "Reading Books, Watching Dramas"
+favorite_color = "Black"
+favorite_foods = "adobo"
+course = "BSCS"
+
 
 # Printing the details to the console
 print("--- Personal Details ---")
@@ -18,7 +20,9 @@ print("Last Name:", last_name)
 print("Age:", age)
 print("Address:", address)
 print("Sex:", sex)
-print("Favorite Color:", favorite_color)
-print("Course:", course)
 print("Year Level:", year_level)
 print("Hobbies:", hobbies)
+print("Favorite Color:", favorite_color)
+print("Favorite Foods:", favorite_foods)
+print("Course:", course)
+
